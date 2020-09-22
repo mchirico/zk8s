@@ -6,3 +6,7 @@
 - Homebrew (This is a package manager for mac)
 https://brew.sh/
 
+```
+brew install make
+```
+
